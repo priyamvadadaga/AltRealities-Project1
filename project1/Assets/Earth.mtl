@@ -1,0 +1,8 @@
+newmtl MuddyPlants
+map_Pm MuddyPlantsMetallicMap.png
+bump MuddyPlantsNormal.png
+disp MuddyPlantsHeight.png
+map_Kd MuddyPlantsDiffuse.png
+Kd 1 1 1
+d 1
+
