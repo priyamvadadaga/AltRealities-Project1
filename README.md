@@ -4,8 +4,9 @@ A short description.
 
 ## Technical setup instructions
 
-Some special setup requirements. 
+* Using Unity Editor 2020.3.26 or above is recommended.
+* 
 
 ## Special controls 
 
-or other technical need to know things that are crucial to successfully operate/navigate the experience
+The project is static in terms of user movement and the only movement is 'rotational' as the user turns around the centre of the structure. 
