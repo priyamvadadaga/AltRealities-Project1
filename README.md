@@ -5,7 +5,7 @@ A short description.
 ## Technical setup instructions
 
 * Using Unity Editor 2020.3.26 or above is recommended.
-* 
+* The project uses the URP, incase of errors, try upgrading project materials to URP.
 
 ## Special controls 
 
