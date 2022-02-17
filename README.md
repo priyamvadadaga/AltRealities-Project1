@@ -25,3 +25,8 @@ elements considered:
 * sector-like stage. 
 * use of different materials – wood / stone / glass / porcelain. 
 * each sector decorated themed on the element they represent.
+
+## Reflection
+Looking back, I would try to have a more focused theme and develop that in greater detail as opposed to a variety of different themes packed into one. I think I really struggled with material and with Polybrush especially in this project as it would only work on dense meshes and to restructure a dense mesh into more irregular shapes as I have used was very difficult. I would also be more particular next time around with how I use sounds and use them to my advantage as I think they really immerse the user into the VR experience. 
+
+<img width="1440" alt="Screenshot 2022-02-17 at 11 47 27 PM" src="https://user-images.githubusercontent.com/95570878/154561429-d7b23e8d-8b7c-4bf9-af32-495b1c4537f7.png">
